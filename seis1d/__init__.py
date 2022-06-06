@@ -1,1 +1,1 @@
-from .core import hmm
+from .core import Model, Shot, random_shot
